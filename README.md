@@ -86,7 +86,7 @@ Additionally, I’m deeply inspired by **Watch Dogs**, the game. The way it blen
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect with Me
 
 📧 Email: rennan.alves2617@gmail.com
 🔗 [Portfolio](https://lrennan.github.io/web_portifolio/)  
