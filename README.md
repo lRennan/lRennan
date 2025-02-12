@@ -1,4 +1,5 @@
-![jason-mavrommatis-byqgHC0XFME-unsplash](https://github.com/user-attachments/assets/417dcf5f-2408-41d6-8767-43e08758cfea)
+
+![dev (2)](https://github.com/user-attachments/assets/b14124d3-5147-4a57-9d50-97981b7d26ac)
 
 # Hey there 👋
 
