@@ -15,7 +15,7 @@ I'm always looking for ways to improve, and I'm constantly inspired by trailblaz
 
 ## 🎯 Goals for Upcoming Years
 
-- Deepen increase my understanding of backend development (Node.js, Express, APIs, and programming languages).
+- Deepen increase my understanding of backend development (Node.js, APIs, and programming languages).
 - Build a few full-stack applications and contribute to open-source projects.
 - Improve my problem-solving skills (by solving challenges on platforms like LeetCode, CodeWars, etc.).
 
